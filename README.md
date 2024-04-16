@@ -28,3 +28,6 @@ create a NewPlayerForm component
 create a delete button that deletes a player
 
 lastly, use some css to make it cute
+
+https://app.netlify.com/sites/lovely-crumble-6553d9/deploys/661e77ea81320712b23bec6b
+^^ here is the netlify link
